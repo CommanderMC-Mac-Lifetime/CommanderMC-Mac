@@ -1,9 +1,9 @@
-# CommanderMC Mac Standard License
+# CommanderMC Mac
 
 <img src="https://cdn-icons-png.flaticon.com/512/100/100498.png" width="200" alt="App icon" align="left"/>
 
 <div>
-<h3>CommanderMC for macOS</h3>
+<h3>CommanderMC macOS</h3>
 <p>CommanderMC is a specialized dual-pane file manager for macOS designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
 <a href="https://mops-apps.github.io/.github/commandermc">
@@ -34,7 +34,7 @@
 
 ## Application Overview
 
-CommanderMC for macOS represents a professional‑grade file manager engineered specifically for the Mac platform. The application prioritizes native macOS integration, leveraging Apple's core frameworks and interface guidelines to deliver an experience that feels inherently familiar to Mac users.
+CommanderMC macOS represents a professional‑grade file manager engineered specifically for the Mac platform. The application prioritizes native macOS integration, leveraging Apple's core frameworks and interface guidelines to deliver an experience that feels inherently familiar to Mac users.
 
 The software architecture emphasizes <a href="#">responsive performance</a> through careful optimization of system resources. Every interaction, from launching the app to processing complex operations, has been refined to minimize latency and maintain smooth visual feedback. This attention to performance means the application remains usable even under heavy workloads.
 
